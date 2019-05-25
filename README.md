@@ -1,2 +1,0 @@
-# SentimentTracker
-Tracks Video Sentiment
